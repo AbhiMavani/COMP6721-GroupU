@@ -8,9 +8,9 @@ This project involves the classification of images of flowers using deep learnin
 ## Datasets
 Datasets | Auther | Links |
 | ------------- | --------- | ------------ |
-| Flower Classification \| 5 Classes | utkarshsaxenadn | <a href="https://www.kaggle.com/datasets/utkarshsaxenadn/flower-classification-5-classes-roselilyetc">*kaggle*</a> |
-| 🌸 \| Flower Classification | marquis03 | <a href="https://www.kaggle.com/datasets/marquis03/flower-classification">*kaggle*</a> |
-| flowers | nadyana | <a href="https://www.kaggle.com/datasets/nadyana/flowers">*kaggle*</a> |
+| Flower Classification \| 5 Classes | utkarshsaxenadn | <a href="https://www.kaggle.com/datasets/utkarshsaxenadn/flower-classification-5-classes-roselilyetc" target="_blank">*kaggle*</a> |
+| 🌸 \| Flower Classification | marquis03 | <a href="https://www.kaggle.com/datasets/marquis03/flower-classification" target="_blank">*kaggle*</a> |
+| flowers | nadyana | <a href="https://www.kaggle.com/datasets/nadyana/flowers" target="_blank">*kaggle*</a> |
 
 <hr />
 <br >
