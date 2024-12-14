@@ -21,19 +21,30 @@ The project folder has the following structure:
 ```
 COMP6721_Winter2023_GroupO
 ├── Docs
+|   ├──Densenet121/
 │   ├── MobileNetV2/  
 │   ├── ResNet18/
+|   ├── Extras/
 │   ├── Project_Proposal_Group_O.pdf
-│   └── Project_Report_Group_O.pdf
+│   ├── Project_Report_Group_O.pdf
+│   └── COMP6721_GroupU_Presentation.pdf
 │
 ├── notebooks
 │   ├── Extra/
-│   ├── resnet_5.ipynb
-│   ├── resnet_7.ipynb
-│   ├── resnet_14.ipynb
-│   ├── mobilenet-5.ipynb
-│   ├── mobilenet_7.ipynb
-│   ├── mobilenet_14.ipynb
+│   ├── resnet_D1_5.ipynb
+│   ├── resnet_D1_7.ipynb
+│   ├── resnet_D1_14.ipynb
+│   ├── mobilenet_D1_5.ipynb
+│   ├── mobilenet_D1_7.ipynb
+│   ├── mobilenet_D1_14.ipynb
+│   ├── densenet_D1_5.ipynb
+│   ├── densenet_D2_7.ipynb
+│   ├── densenet_D3_14.ipynb
+│   ├── transfer_resnet_5.ipynb
+│   ├── transfer_mobilenet_5.ipynb
+│   ├── transfer_mobilenet_5.ipynb
+│   ├── transfer_mobilenet_14.ipynb
+│   ├── modeltesting.ipynb
 ├── LICENSE
 ├── .gitignore
 ├── README.md
