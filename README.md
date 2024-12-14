@@ -13,7 +13,23 @@ Datasets | Auther | Links |
 | flowers | nadyana | <a href="https://www.kaggle.com/datasets/nadyana/flowers" target="_blank">*kaggle*</a> |
 
 <hr />
-<br >
+<be >
+---
+
+## GitHub Repository
+
+You can access the full project code and documentation here:  
+[COMP6721 - GroupU GitHub Repository](https://github.com/AbhiMavani/COMP6721-GroupU)
+
+---
+
+## Video Presentation
+
+Watch our project video presentation to understand the project's objectives, methodology, and results:  
+[Video Presentation on Google Drive](https://drive.google.com/file/d/1WeqN9UBBk-CA6SLw4KCrLRfXDlfpb7gp/view)
+
+---
+
 
 ## Folder Structure
 The project folder has the following structure:
